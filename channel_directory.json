@@ -1,0 +1,31 @@
+{
+  "updated_at": "2026-03-30T00:43:50.055583",
+  "platforms": {
+    "discord": [
+      {
+        "id": "1487596272117481645",
+        "name": "general",
+        "guild": "Hermes Control",
+        "type": "channel"
+      },
+      {
+        "id": "1487596272117481645",
+        "name": "Hermes Control / #general",
+        "type": "group",
+        "thread_id": null
+      }
+    ],
+    "telegram": [
+      {
+        "id": "5586539945",
+        "name": "Paul Fernandez Realtor",
+        "type": "dm",
+        "thread_id": null
+      }
+    ],
+    "whatsapp": [],
+    "signal": [],
+    "email": [],
+    "sms": []
+  }
+}

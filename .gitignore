@@ -2,3 +2,7 @@
 *.db
 *.sqlite
 logs/
+node/
+node_modules/
+sessions/
+.hermes_history

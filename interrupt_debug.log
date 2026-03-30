@@ -1,0 +1,8 @@
+23:47:10 ENTER: queued interrupt msg='hermes setup messaging', agent_running=True
+23:47:10 interrupt fired: msg='hermes setup messaging', children=0, parent._interrupt=True
+00:04:31 interrupt fired: msg='─────────────────────', children=0, parent._interrupt=True
+00:04:31 ENTER: queued interrupt msg='─────────────────────', agent_running=True
+00:07:19 interrupt fired: msg='hello', children=0, parent._interrupt=True
+00:07:19 ENTER: queued interrupt msg='hello', agent_running=True
+20:41:49 interrupt fired: msg='hermes chat -q "Use your web_search and web_extract tools to', children=0, parent._interrupt=True
+20:41:49 ENTER: queued interrupt msg='hermes chat -q "Use your web_search and web_extract tools to', agent_running=True
