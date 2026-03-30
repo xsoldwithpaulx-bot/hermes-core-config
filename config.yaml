@@ -1,8 +1,7 @@
 model:
-  default: openrouter/free
+  default: openrouter/free/nousresearch/hermes-3-llama-3.1-405b:free
   provider: openrouter
-  name: nousresearch/hermes-3-llama-3.1-405b:free
-  api_key: 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
+  api_key: 
   base_url: https://openrouter.ai/api/v1
 plugins:
   load:
